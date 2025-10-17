@@ -1,0 +1,23 @@
+{
+    "ppu": 32,
+    "buildings": [
+        {
+            "id": "b1",
+            "prefabPath": "Prefabs/B1",
+            "width": 2,
+            "height": 2
+        },
+        {
+            "id": "b2",
+            "prefabPath": "Prefabs/B2",
+            "width": 2,
+            "height": 2
+        },
+        {
+            "id": "b3",
+            "prefabPath": "Prefabs/B3",
+            "width": 2,
+            "height": 2
+        }
+    ]
+}
