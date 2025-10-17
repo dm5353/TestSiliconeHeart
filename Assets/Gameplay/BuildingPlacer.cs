@@ -18,7 +18,7 @@ public class BuildingPlacer : MonoBehaviour
 
     private Vector2Int _gridPos = Vector2Int.zero;
 
-    private float _moveCooldown = 0.15f;
+    private float _moveCooldown = 0.25f;
     private float _moveTimer = 0f;
 
     public enum Mode { Place, Delete }
